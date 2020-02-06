@@ -27,7 +27,7 @@ import { RippleLoaderModule } from 'ng-spinners';
     HttpClientModule,
     BrowserAnimationsModule,
     AngularFontAwesomeModule,
-    RippleLoaderModule
+    RippleLoaderModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
